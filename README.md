@@ -5,7 +5,7 @@
 </em></p>
 
 [![Linkedin: Lakshya](https://img.shields.io/badge/-Dhruv-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhruv-kumar-singh-2ba5b51b4/)](https://www.linkedin.com/in/dhruv-kumar-singh-2ba5b51b4/)]
-[![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)](https://github.com/Laks5500/)]
+[![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)](https://github.com/dhruvvvv123)]
 
 ### 📫 Like to meet me?
 
