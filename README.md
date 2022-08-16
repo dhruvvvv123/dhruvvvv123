@@ -4,7 +4,6 @@
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/lakshya_cool?style=social)](https://twitter.com/lakshya_cool)
 [![Linkedin: Lakshya](https://img.shields.io/badge/-Dhruv-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/lakshyasoni5500/](https://www.linkedin.com/in/dhruv-kumar-singh-2ba5b51b4/)))]
 ![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
 
