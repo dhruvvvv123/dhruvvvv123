@@ -1,4 +1,4 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Lakshya Soni ! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Dhruv Kumar Singh ! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media1.giphy.com/media/gcOg6zLJc0hN6YZ2i4/giphy.gif?cid=ecf05e47wpgu1j6bv3rgmgq533qccxrv1x1nwlczm68oyfce&rid=giphy.gif&ct=s" width="230">
 <p><em>Software Engineer at <a href="https://www.walkingtree.tech/">Walkingtree Technologies
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
@@ -6,12 +6,6 @@
 
 [![Linkedin: Lakshya](https://img.shields.io/badge/-Dhruv-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhruv-kumar-singh-2ba5b51b4/)](https://www.linkedin.com/in/dhruv-kumar-singh-2ba5b51b4/)]
 [![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)](https://github.com/dhruvvvv123)]
-
-### 📫 Like to meet me?
-
-Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
-
-<a href="https://calendly.com/lakshya-soni/30-min-meeting-with-lakshya" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
